@@ -4,3 +4,4 @@ elevenlabs
 agno
 streamlit
 google-genai
+PyPDF2
