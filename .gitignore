@@ -1,1 +1,6 @@
 .env
+new_env_for_blog_to_podcast/
+venv/
+venv311/
+venv311_new/
+audio_generations/
